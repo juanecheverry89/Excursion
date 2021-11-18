@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.the_head {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.promote_download {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: underline;
+}
