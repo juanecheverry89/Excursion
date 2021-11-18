@@ -18,3 +18,13 @@ body {
     text-align: center;
     text-decoration: underline;
 }
+
+h2 {
+    font-weight: 300;
+    color: white;
+}
+
+.frasesita {
+    font-size: 21px;
+    color: gray;
+}
